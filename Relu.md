@@ -6,7 +6,6 @@ In this lesson we talked about ReLU and how it gives our Dense layer more power.
 
 ![](https://video.udacity-data.com/topher/2019/March/5c7f0cff_tensorflow-l3f1/tensorflow-l3f1.png)
 
-]
 
 As we can see, the ReLU function gives an output of 0 if the input is negative or zero, and if input is positive, then the output will be equal to the input.
 
