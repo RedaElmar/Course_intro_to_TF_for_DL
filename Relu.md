@@ -3,11 +3,10 @@ The Rectified Linear Unit (ReLU)
 
 In this lesson we talked about ReLU and how it gives our Dense layer more power. ReLU stands for Rectified Linear Unit and it is a mathematical function that looks like this:
 
-[
 
 ![](https://video.udacity-data.com/topher/2019/March/5c7f0cff_tensorflow-l3f1/tensorflow-l3f1.png)
 
-](https://classroom.udacity.com/courses/ud187/lessons/e52f6e56-2fbc-4ba8-9f74-377937b7da5c/concepts/5fe43485-8e11-4a31-b49a-ab502ed17ca2#)
+]
 
 As we can see, the ReLU function gives an output of 0 if the input is negative or zero, and if input is positive, then the output will be equal to the input.
 
@@ -23,4 +22,3 @@ Let's review some of the new terms that were introduced in this lesson:
 -   ReLU: An activation function that allows a model to solve nonlinear problems
 -   Softmax: A function that provides probabilities for each possible output class
 -   Classification: A machine learning model used for distinguishing among two or more output categories
-
